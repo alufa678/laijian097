@@ -10,4 +10,3 @@ exit 退出
 flush privileges;
 
 
-laijianqing1513
